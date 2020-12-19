@@ -1,4 +1,5 @@
 
+
 ##  Android UI OpenSource는 무엇일까?
 
   
@@ -28,3 +29,9 @@
 ![enter image description here](https://ifh.cc/g/npcv7n.jpg)
 
 개인 혹은 단체의 **UI제작 프로젝트**를 서로 공유할 수 있는 오픈소스 프로젝트이다
+
+게시글에는 UI에 대한 간단한 animated GIF와 함께 설명과 이용방법을 알리고 있고,
+
+**UI 개발자의 깃허브**에서는 **UI에 대한 설명**, **사용방법**, **코드** 등을 보다 상세하게
+
+확인 할 수 있다
